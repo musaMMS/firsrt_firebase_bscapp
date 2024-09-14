@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207771210290",
+    "project_id": "first-pro-1f526",
+    "storage_bucket": "first-pro-1f526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207771210290:android:92a307674d149bbbf6e22b",
+        "android_client_info": {
+          "package_name": "com.example.firsrt_firebase_bscapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttyD0U2l4Gi8zX0e7-5CPlGj75cKk_7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
